@@ -3,4 +3,4 @@
 
 ### 录制动画效果
 
-<img src="https://github.com/LSPBoy/DouYinLoading/blob/master/images/1.gif" />
+<img src="https://github.com/LSPBoy/VideoButton/blob/master/Images/image.gif" />
